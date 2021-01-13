@@ -1,4 +1,8 @@
-Value Investing Notes (primarily derived from Investopedia)
+# fufufinance
+
+This python script, or pipe dream, determines which stocks might be undervalued (based on pricetobook, pegratio, dividends, and other notes from Investopedia)
+
+== Value Investing Notes (primarily derived from Investopedia) ==
 
 [QUANTITATIVE]
 
@@ -13,7 +17,7 @@ https://www.washingtonpost.com/opinions/the-stock-market-and-economy-have-parted
 
 (c) "In theory, by taking the median of P/E ratios over a period of several years, one could formulate something of a standardized P/E ratio, which could then be seen as a benchmark and used to indicate whether or not a stock is worth buying."
 
-(d) price-to-earnings-to-growth (PEG) ratio - The PEG ratio is calculated as a company’s trailing price-to-earnings (P/E) ratio divided by the growth rate of its earnings for a specified time period. A stock with a PEG of less than 1 is typically considered undervalued
+(d) price-to-earnings-to-growth (PEG) ratio - The PEG ratio is calculated as a company’s trailing price-to-earnings (P/E) ratio divided by the growth rate of its earnings for a specified time period. A stock with a PEG ratio of less than 1 is typically considered undervalued
 
 3. Free cash flow (FCF) - cash generated from a company's revenue or operations after the costs of expenditures have been subtracted.
 
@@ -32,3 +36,7 @@ https://www.washingtonpost.com/opinions/the-stock-market-and-economy-have-parted
 4. Retained earnings - used to pay dividends, for example, and is considered a sign of a healthy, profitable company.
 
 5. Brand and company culture.
+
+[RESOURCE]
+
+"nasdaqtrader.txt" is courtesy of https://www.nasdaqtrader.com/
